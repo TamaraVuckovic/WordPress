@@ -1,0 +1,4 @@
+2022-09-05T19:18:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2101248 bytes) in /home/tvuckovic/public_html/roman/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 22156
+
+2022-09-05T19:18:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2101248 bytes) in /home/tvuckovic/public_html/roman/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 22156
+
