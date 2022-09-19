@@ -1,0 +1,25 @@
+
+19-09-2022 08:40:50 [tvuckovic.wppsbootcamp.com][info] Parent plugin start installation!
+19-09-2022 08:40:50 [tvuckovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+19-09-2022 08:40:50 [tvuckovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+19-09-2022 08:41:01 [tvuckovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/tvuckovic/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+19-09-2022 09:10:52 [tvuckovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+19-09-2022 09:10:52 [tvuckovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+19-09-2022 10:26:30 [tvuckovic.wppsbootcamp.com][info] Parent plugin start installation!
+19-09-2022 10:26:30 [tvuckovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+19-09-2022 10:26:30 [tvuckovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+19-09-2022 10:26:45 [tvuckovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/tvuckovic/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+19-09-2022 10:32:18 [tvuckovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+19-09-2022 10:32:18 [tvuckovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------

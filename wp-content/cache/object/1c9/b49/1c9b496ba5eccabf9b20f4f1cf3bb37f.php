@@ -1,0 +1,8 @@
+"N(c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:65;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-09-15 20:24:12";s:13:"post_date_gmt";s:19:"2022-09-15 20:24:12";s:12:"post_content";s:799:"<div>
+<p class="detail-desc-decorate-content"><strong data-spm-anchor-id="a2g0o.detail.1000023.i0.3acb6f90ts74h5">Keep you and your dog safe during driving.</strong></p>
+
+</div>
+<div>
+<p class="detail-desc-decorate-content"><strong data-spm-anchor-id="a2g0o.detail.1000023.i1.3acb6f90ts74h5">Pet can sit, lay or stand comfortably in the car. </strong><strong>Made of high-quality nylon fabric to ensure safety, features a solid zinc alloy swivel snap and metal buckles guarantee extra durability. </strong><strong>Keep your pet safely restrained and secure in the vehicle while driving, and allows your dog to sit, stand or lie down comfortably in a car without distracting the driver. </strong><strong>Hassle-free seatbelt clip designed to latch into your car with ease.</strong></p>
+
+</div>";s:10:"post_title";s:13:"Dog Seat Belt";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"dog-seat-belt";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-09-18 12:22:04";s:17:"post_modified_gmt";s:19:"2022-09-18 12:22:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:72:"https://tvuckovic.wppsbootcamp.com/projekat/?post_type=product&#038;p=65";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

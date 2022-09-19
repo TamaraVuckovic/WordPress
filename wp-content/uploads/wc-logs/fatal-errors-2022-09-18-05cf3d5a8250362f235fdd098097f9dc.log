@@ -1,0 +1,6 @@
+2022-09-18T09:57:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 12814936 bytes) in /home/tvuckovic/public_html/projekat/wp-includes/class-wp-image-editor-gd.php on line 98
+
+2022-09-18T13:52:15+00:00 CRITICAL Cannot redeclare dodaj_text() (previously declared in /home/tvuckovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:25) in /home/tvuckovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 43
+
+2022-09-18T13:52:24+00:00 CRITICAL Cannot redeclare dodaj_text() (previously declared in /home/tvuckovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:25) in /home/tvuckovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 43
+

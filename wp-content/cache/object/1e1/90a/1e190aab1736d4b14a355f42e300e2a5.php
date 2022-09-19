@@ -1,0 +1,7 @@
+"N(c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:137;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-09-15 21:42:16";s:13:"post_date_gmt";s:19:"2022-09-15 21:42:16";s:12:"post_content";s:602:"<span class="a-list-item">The gentle silicone bristles will help remove dirt and mud from your Frenchie's paw cleans off mud, sand, dirt, ice melt and removes other harmful bacteria</span>
+
+<span class="a-list-item">A gentle and effective foot washing cup. Remove dirt from your paws before touching furniture or carpets</span>
+
+<span class="a-list-item">To use, add a little water and hand sanitizer, insert the muddy paw, dab the paw dry, and repeat for 3 more paws</span>
+
+<span class="a-list-item">Simple and easy to use, just rinse and keep on hand for next muddy encounter. Bpa free.</span>";s:10:"post_title";s:12:"Cleaning Cup";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:12:"cleaning-cup";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-09-15 21:46:34";s:17:"post_modified_gmt";s:19:"2022-09-15 21:46:34";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:73:"https://tvuckovic.wppsbootcamp.com/projekat/?post_type=product&#038;p=137";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
